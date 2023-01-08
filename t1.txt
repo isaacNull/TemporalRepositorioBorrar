@@ -1,1 +1,2 @@
-hola amigos,
+hola amigos, esto es la primera edición conectando 
+el repositorio remote con el local con cifrado asimetrico ssh
